@@ -21,6 +21,7 @@
 
 <p><a href="register">Don't have an account? Register here.</a></p>
 <p><a href="forgot-password">Forgot Password?</a></p>
+<script src="login.js"></script>
 
 </body>
 </html>
