@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>Forgot Password</title>
-    <link rel="stylesheet" href="/css/forgot-password.css">
+    <link rel="stylesheet" href="forgot-password.css">
 </head>
 <body>
 <h2>Forgot Password</h2>
@@ -25,6 +25,7 @@
 </form>
 
 <p><a href="login">Back to Login</a></p>
+<script src="forgot-password.js"></script>
 
 </body>
 </html>
