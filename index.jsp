@@ -29,6 +29,7 @@
 </form>
 
 <p><a href="login">Already have an account? Login here.</a></p>
+<script src="register.js"></script>
 
 </body>
 </html>
