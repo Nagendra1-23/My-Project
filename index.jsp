@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>Register</title>
-    <link rel="stylesheet" href="/css/register.css">
+    <link rel="stylesheet" href="register.css">
 </head>
 <body>
 <h2>Register</h2>
