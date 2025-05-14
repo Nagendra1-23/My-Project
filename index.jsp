@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>Register</title>
-    <link rel="stylesheet" href="register.css">
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
 <h2>Register</h2>
@@ -29,7 +29,7 @@
 </form>
 
 <p><a href="login">Already have an account? Login here.</a></p>
-<script src="register.js"></script>
+<script src="index.js"></script>
 
 </body>
 </html>
