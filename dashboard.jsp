@@ -5,7 +5,7 @@
 <html>
 <head>
     <title>Dashboard</title>
-        <link rel="stylesheet" href="/css/dashboard.css">
+        <link rel="stylesheet" href="dashboard.css">
     
 </head>
 <body>
@@ -27,6 +27,7 @@
 <%
     }
 %>
+<script src="dashboard.js"></script>
 
 </body>
 </html>
